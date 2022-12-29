@@ -4,7 +4,7 @@
 - 🌟I have experience with Linux and enjoy working on various projects.
 - :trollface: I am always looking to expand my knowledge and skills in programming.
 
-- Link to [Linkedin](linkedin.com/in/VladPallah)
+🔗 Link to [Linkedin](linkedin.com/in/VladPallah)
 
 <!---
 MilitaryGuineaPig/MilitaryGuineaPig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
