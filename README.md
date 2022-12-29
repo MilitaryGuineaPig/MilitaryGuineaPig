@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MilitaryGuineaPig
+👋 Hi there, I’m @MilitaryGuineaPig :hamster:
 
-- 👋 I'm currently learning C++ and the Qt framework.
-- 👋 I have experience with Linux and enjoy working on various projects.
-- 👋 I am always looking to expand my knowledge and skills in programming.
+- :computer: I'm currently learning C++ and the Qt framework.
+- 🌟I have experience with Linux and enjoy working on various projects.
+- :trollface: I am always looking to expand my knowledge and skills in programming.
 
-Link to [site_name](linkedin.com/in/VladPallah)
+- Link to [Linkedin](linkedin.com/in/VladPallah)
 
 <!---
 MilitaryGuineaPig/MilitaryGuineaPig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
