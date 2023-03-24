@@ -1,7 +1,7 @@
 👋 Hi there, I’m @MilitaryGuineaPig :hamster:
 
-- :computer: I'm currently learning C++ and the Qt framework.
-- 🌟I have experience with Linux and enjoy working on various projects.
+- :computer: I'm currently learning Data Science and Python Machine Learning 
+- 🌟I have experience with C++/OOP, Qt, Linux and enjoy working on various projects.
 - :trollface: I am always looking to expand my knowledge and skills in programming.
 
 🔗 Link to [Linkedin](linkedin.com/in/VladPallah)
